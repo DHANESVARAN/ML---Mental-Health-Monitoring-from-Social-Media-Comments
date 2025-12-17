@@ -1,0 +1,25 @@
+{
+  "model_name": "bert-base-uncased",
+  "accuracy": 0.833860959858174,
+  "training_time_hours": 56.370924860835075,
+  "device": "cuda",
+  "timestamp": "2025-10-26T05:15:42.740541",
+  "class_names": [
+    "Anxiety",
+    "Bipolar",
+    "Depression",
+    "Normal",
+    "Personality disorder",
+    "Stress",
+    "Suicidal"
+  ],
+  "label_mapping": {
+    "0": "Normal",
+    "1": "Depression",
+    "2": "Suicidal",
+    "3": "Anxiety",
+    "4": "Stress",
+    "5": "Bi-Polar",
+    "6": "Personality Disorder"
+  }
+}
